@@ -1,0 +1,2 @@
+# create-directory-and-files
+ This script creates a folder that contains a number of files with the same name except they are each prefixed with a different number to order them from 01 to the number of files set to be created. The number of files to be created, the name of the folder, the name of files, the extension of the files and the location of the folder can be configured by changing the values of the variables pertaining to those properties.
